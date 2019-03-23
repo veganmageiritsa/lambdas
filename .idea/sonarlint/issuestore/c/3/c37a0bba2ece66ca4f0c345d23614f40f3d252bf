@@ -1,0 +1,14 @@
+
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ååıÿÿÿÿ
+isquid:UselessImportCheck"@Remove this unused import 'com.company.model.EmployeeFunctions'.(ÍŠãùşÿÿÿÿ
+gsquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(‹ïÖìıÿÿÿÿ
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(æ—òıÿÿÿÿ
+T
+squid:S106G"9Replace this use of System.out or System.err by a logger.(³ŞÀâúÿÿÿÿ
+Nsquid:S3958U"2Refactor the code so this stream pipeline is used.(Ü–öÏÿÿÿÿÿ
+O
+squid:S106I"9Replace this use of System.out or System.err by a logger.(è—•¬
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¾Ñşõ

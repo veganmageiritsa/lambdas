@@ -1,0 +1,20 @@
+
+asquid:UselessImportCheck	"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+asquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ä³¿U
+Csquid:S1481h",Remove this unused "byValue" local variable.(ßëé¨
+Csquid:S1481c",Remove this unused "results" local variable.(¿±’ø
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(íÖéøÿÿÿÿ
+Ksquid:S1481;"4Remove this unused "sortedAgeHumans" local variable.(˜ñï’
+Fsquid:S1611E"/Remove the parentheses around the "s" parameter(Å’¥Ë
+Hsquid:S14814"1Remove this unused "sortedHumans" local variable.(¼ãð
+O
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¸°ÍØ
+Isquid:S1481W"2Remove this unused "humanTreeSet1" local variable.(¢Í®ê
+Bsquid:S1481b"&Remove this unused "m" local variable.(¿øÜÿýÿÿÿÿ
+T
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Å°ýˆþÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(›¸ìÑþÿÿÿÿ
+Csquid:S1612E",Replace this lambda with a method reference.(Å’¥Ë
+Nsquid:S1481:"2Remove this unused "ageComparator" local variable.(¡„Þûüÿÿÿÿ

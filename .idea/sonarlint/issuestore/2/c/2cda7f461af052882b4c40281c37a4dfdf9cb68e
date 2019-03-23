@@ -1,0 +1,22 @@
+
+Jsquid:S1481D".Remove this unused "salaryMap" local variable.(ìâ İşÿÿÿÿ
+Isquid:S1481"2Remove this unused "totalSalaries" local variable.(íÕèû
+Csquid:S1612M",Replace this lambda with a method reference.(Ô Éı
+Šsquid:S1488ˆ"fImmediately return this expression instead of assigning it to the temporary variable "employeesNames".(ÂŸâ¾øÿÿÿÿ8€Á¸¬‰-
+Csquid:S1612",Replace this lambda with a method reference.(öòĞÓ
+Csquid:S1612",Replace this lambda with a method reference.(öòĞÓ
+Osquid:S1481"3Remove this unused "totalSalaries2" local variable.(óØÍ´şÿÿÿÿ
+Vsquid:UnusedPrivateMethod~",Remove this unused private "compute" method.(¸ÉÈÌıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(·¼”“
+Jsquid:S1481T".Remove this unused "genderMap" local variable.(åóÌİşÿÿÿÿ
+Jsquid:S1481W"3Remove this unused "genderSalaries" local variable.(İİ
+Hsquid:S1612G",Replace this lambda with a method reference.(ı’µÈøÿÿÿÿ
+Hsquid:S1612!",Replace this lambda with a method reference.(Äú–üÿÿÿÿ
+csquid:UnusedPrivateMethod‡"6Remove this unused private "getEmployeesNames" method.(üË«8Ù²¬¬‰-
+Hsquid:S1612;",Replace this lambda with a method reference.(„İÇøÿÿÿÿ
+Tsquid:S1481-">Remove this unused "totalEvenSalariesDoubled2" local variable.(×¡•j
+asquid:S3655R"JCall "smallerSalaryBiggerThan1500.isPresent()" before accessing the value.(·¼”“
+Tsquid:S1481("=Remove this unused "totalEvenSalariesDoubled" local variable.(ùÒÌ
